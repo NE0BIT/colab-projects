@@ -27,6 +27,21 @@ Feel free to explore, fork, and contribute to any of the projects. If you find t
   4. The game continues until there's a winner or a draw.
 - **Dataset Used**: N/A (No external dataset required for this project).
 
+### **Apidex - A Minimalist Pokedex**
+- **Description**: A simple Python project that fetches and displays Pokémon data using the PokeAPI. It’s designed as a learning tool for working with APIs and handling JSON data.
+- **Colab Link**: <a href="https://colab.research.google.com/github/NE0BIT/pokedex/blob/main/pokedex.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
+- **Technologies Used**: Python, PokeAPI
+- **Key Features**:
+  - Fetches Pokémon data (name, ID, type, abilities) from the PokeAPI.
+  - Simple and interactive: Enter a Pokémon name or ID to get details.
+  - Minimalist design, perfect for beginners to understand and modify.
+- **How to Use**:
+  1. Open the Colab notebook using the provided link.
+  2. Run all the cells to initialize the script.
+  3. When prompted, enter the name or ID of the Pokémon you want to search for.
+  4. View the Pokémon details displayed in the output.
+- **Dataset Used**: [PokeAPI](https://pokeapi.co/)
+
 ---
 
 ## 🛠️ How to Use
