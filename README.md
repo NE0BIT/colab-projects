@@ -1,6 +1,6 @@
 # My Google Colab Projects Collection
 
-Welcome to my repository! This is a curated collection of my Google Colab projects, covering a variety of topics such as data analysis, machine learning, deep learning, and more. Each project is designed to be interactive, easy to follow, and educational.
+Welcome to my repository! This is a curated collection of my Google Colab projects. Each project is designed to be interactive, easy to follow, and educational, as almost every line is explained with as much detail as I can.
 
 Feel free to explore, fork, and contribute to any of the projects. If you find them useful, don't forget to give them a ⭐!
 
